@@ -1,6 +1,7 @@
 ## Descriptions
 
 - Provide WebRTC with Janus using janus-gateway.
+- Easy access to janus-gateway sample pages ready-to-run WebRTC.
 - For more information about janus-gateway, see https://github.com/meetecho/janus-gateway.
 
 ## Usage
